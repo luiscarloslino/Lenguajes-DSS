@@ -1,0 +1,94 @@
+.parrafo1 {
+    background-color: blue;
+    color: white;
+}
+
+.titulo1 {
+    background-image: url('deapool.png');
+    color: black;
+}
+
+.boton1 {
+    background-color: green;
+    color: white;
+}
+
+.lista2 {
+    font-size: 18px;
+}
+
+.parrafo3 {
+    background-color: yellow;
+    color: black;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.titulo3 {
+    background-color: pink;
+    color: white;
+    font-family: Verdana;
+    font-size: 24px;
+}
+
+.lista3 {
+    font-size: 16px;
+}
+
+.boton3 {
+    background-color: gray;
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.parrafo4 {
+    background-color: lightgreen;
+    color: black;
+    font-family: "Comic Sans MS";
+    font-size: 12px;
+}
+
+.titulo4 {
+    background-color: lightblue;
+    color: white;
+    font-family: Impact;
+    font-size: 28px;
+}
+
+.elementolista4 {
+    font-weight: bold;
+}
+
+.boton4 {
+    background-color: orange;
+    color: white;
+    font-family: "Courier New";
+    font-size: 18px;
+}
+
+.parrafo5 {
+    background-color: lightpink;
+    color: black;
+    font-family: Georgia;
+    font-size: 16px;
+}
+
+.titulo5 {
+    background-color: lightyellow;
+    color: black;
+    font-family: Tahoma;
+    font-size: 22px;
+}
+
+.elementolista5 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.boton5 {
+    background-color: purple;
+    color: white;
+    font-family: "Arial Black";
+    font-size: 26px;
+}
