@@ -1,0 +1,61 @@
+.mi-div {
+    background-color: brown;
+    color: white;
+    margin: 10px;
+}
+
+.mi-boton {
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.mi-tabla {
+    background-color: brown;
+    color: white;
+    margin: 10px;
+}
+
+.mi-parrafo {
+    color: brown;
+    margin: 10px;
+}
+
+.mi-enlace {
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+}
+
+.mi-imagen {
+    padding: 30px;
+    background-color: brown;
+    width: 300px;
+}
+
+.mi-encabezado {
+    color: #ff0000;
+    margin: 10px;
+}
+
+.mi-lista {
+    border: 10px solid brown;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.mi-formulario {
+    width: 100px;
+}
+
+.mi-formulario input[type="text"],
+.mi-formulario input[type="email"] {
+    background-color: aqua;
+}
+
+.mi-lista2 {
+    background-color: blueviolet;
+    margin: 50px;
+}
